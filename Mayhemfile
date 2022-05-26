@@ -1,5 +1,5 @@
 project: rnshah9/tomlc99
-target: tomlc99
+target: toml-json
 
 cmds:
   - cmd: /repo/toml_json @@
