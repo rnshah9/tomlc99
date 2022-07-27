@@ -2,4 +2,4 @@ project: tomlc99
 target: toml-json
 
 cmds:
-  - cmd: /repo/toml_json @@
+  - cmd: /toml_json @@
